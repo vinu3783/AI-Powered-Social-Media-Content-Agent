@@ -1,5 +1,4 @@
 # AI-Powered-Social-Media-Content-Agent
-# AI-Powered-Social-Media-Content-Agent
 # ✨ Creator Command Center
 
 **An AI-Powered Social Media Content Agent built with Streamlit**
