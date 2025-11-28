@@ -2,6 +2,13 @@
 DEMO:https://ai-powered-social-media-content-agent-cecuudtw2iqz6wpg7khtbn.streamlit.app/
 
 Demo Video:https://drive.google.com/file/d/1YiULlmR0uosIo-dYmEkhilrALctNZLL7/view?usp=sharing
+
+NOTE:
+use this API key to test the demo :AIzaSyCbotpPhOvs0F_WzTAnh2gv8LmOnPIjuRA
+
+put this key in slider-bar and good to go!!!
+
+
 # ✨ Creator Command Center
 
 **An AI-Powered Social Media Content Agent built with Streamlit**
